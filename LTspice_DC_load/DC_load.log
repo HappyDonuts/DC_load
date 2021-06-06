@@ -1,6 +1,5 @@
-Circuit: * D:\Users\Javi\OneDrive - Universidad Politécnica de Madrid\Projects\Documentation\DC Load\DC_load\DC_load.asc
+Circuit: * D:\Users\Javi\GitHub\DC_load\LTspice_DC_load\DC_load.asc
 
-WARNING: Less than two connections to node NC_01.  This node is used by V2.
 Instance "m:u3:os": Width narrower than recommended for a level 3 MOSFET.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -59,26 +58,25 @@ Source Step = 3.0303%
 vernier = 0.25
 Source stepping failed
 
-Pseudo transient terminated at 100.417 s, solution accepted ready or not!
-Heightened Def Con from 0.09 to 0.09
+Pseudo transient terminated at 101.914 s, solution accepted ready or not!
 Heightened Def Con from 0.102 to 0.102
 Heightened Def Con from 0.102 to 0.102
 
-Date: Sun Jun 06 17:56:14 2021
-Total elapsed time: 2.444 seconds.
+Date: Sun Jun 06 18:18:24 2021
+Total elapsed time: 2.363 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 38554
-traniter = 17924
-tranpoints = 5927
-accept = 4523
-rejected = 1708
+totiter = 36387
+traniter = 14633
+tranpoints = 4794
+accept = 3715
+rejected = 1418
 matrix size = 182
-fillins = 319
+fillins = 321
 solver = Normal
-Thread vector: 11.3/6.8[4] 6.4/1.8[4] 4.2/2.9[3] 0.7/1.8[1]  2592/500
-Matrix Compiler1: 27.72 KB object code size  10.5/5.9/[1.2]
-Matrix Compiler2: 20.33 KB object code size  2.0/3.3/[1.0]
+Thread vector: 24.6/8.1[4] 3.8/1.9[4] 3.2/1.3[4] 0.7/1.8[1]  2592/500
+Matrix Compiler1: 28.31 KB object code size  3.8/2.0/[0.9]
+Matrix Compiler2: 20.35 KB object code size  5.9/7.1/[1.4]
 
