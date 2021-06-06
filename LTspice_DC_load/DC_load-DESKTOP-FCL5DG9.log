@@ -1,0 +1,199 @@
+Circuit: * C:\Users\Javi\OneDrive - Universidad Politécnica de Madrid\Projects\Documentation\DC Load\DC_load\DC_load.asc
+
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by V3.
+WARNING: Less than two connections to node NC_02.  This node is used by V3.
+WARNING: Less than two connections to node NC_03.  This node is used by R18.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.00424207
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0.0042338
+vernier = 0.00520833
+vernier = 0.00694444
+Gmin = 0.00418133
+vernier = 0.00347222
+vernier = 0.00462963
+Gmin = 0.00415121
+vernier = 0.00617283
+vernier = 0.00823044
+Gmin = 0.00408664
+vernier = 0.0109739
+Gmin = 0.00398709
+vernier = 0.0146319
+vernier = 0.0195092
+Gmin = 0.00382551
+vernier = 0.0260122
+vernier = 0.034683
+Gmin = 0.00358158
+vernier = 0.046244
+Gmin = 0.00322942
+vernier = 0.0616586
+vernier = 0.0308293
+vernier = 0.0411057
+Gmin = 0.00299867
+vernier = 0.0205529
+vernier = 0.0102764
+vernier = 0.0137019
+Gmin = 0.00296542
+vernier = 0.0182692
+Gmin = 0.00284948
+vernier = 0.0243589
+vernier = 0.0324786
+Gmin = 0.0026695
+vernier = 0.0433047
+vernier = 0.0577396
+Gmin = 0.00240774
+vernier = 0.0769862
+Gmin = 0.00203748
+vernier = 0.102648
+vernier = 0.136864
+Gmin = 0.00155222
+vernier = 0.0684321
+vernier = 0.0912428
+Gmin = 0.00130347
+vernier = 0.121657
+Gmin = 0.00100246
+vernier = 0.0608285
+vernier = 0.0304143
+vernier = 0.0152071
+vernier = 0.00760356
+Gmin = 0.000998656
+vernier = 0.00380178
+vernier = 0.00190089
+vernier = 0.000950445
+vernier = 0.000475223
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 5.68182%
+Source Step = 5.70253%
+Source Step = 5.73213%
+Source Step = 5.76172%
+Source Step = 5.79131%
+Source Step = 5.8209%
+vernier = 0.00146484
+Source Step = 5.85198%
+Source Step = 5.89637%
+Source Step = 5.94076%
+Source Step = 5.98514%
+Source Step = 6.02953%
+Source Step = 6.07392%
+vernier = 0.00219727
+Source Step = 6.14051%
+Source Step = 6.20709%
+Source Step = 6.27367%
+Source Step = 6.34026%
+Source Step = 6.40684%
+vernier = 0.0032959
+Source Step = 6.50339%
+Source Step = 6.60326%
+Source Step = 6.70314%
+Source Step = 6.80302%
+Source Step = 6.90289%
+vernier = 0.00494385
+Source Step = 7.04272%
+Source Step = 7.19253%
+Source Step = 7.34234%
+Source Step = 7.49216%
+Source Step = 7.64197%
+vernier = 0.00741577
+Source Step = 7.84422%
+Source Step = 8.06894%
+Source Step = 8.29366%
+Source Step = 8.51838%
+Source Step = 8.7431%
+vernier = 0.0111237
+Source Step = 9.03524%
+Source Step = 9.37232%
+Source Step = 9.7094%
+Source Step = 10.0465%
+Source Step = 10.3836%
+vernier = 0.0166855
+Source Step = 10.8049%
+Source Step = 11.3105%
+Source Step = 11.8162%
+Source Step = 12.3218%
+Source Step = 12.8274%
+vernier = 0.0250282
+Source Step = 13.4341%
+Source Step = 14.1926%
+Source Step = 14.951%
+Source Step = 15.7094%
+Source Step = 16.4679%
+vernier = 0.0375423
+Source Step = 17.3401%
+Source Step = 18.4777%
+Source Step = 19.6154%
+Source Step = 20.753%
+Source Step = 21.8906%
+vernier = 0.0563135
+Source Step = 23.1421%
+Source Step = 24.8485%
+Source Step = 26.555%
+Source Step = 28.2615%
+Source Step = 29.9679%
+vernier = 0.0844703
+Source Step = 31.7597%
+Source Step = 34.3194%
+Source Step = 36.8791%
+Source Step = 39.4388%
+Source Step = 41.9986%
+Source Step = 44.5583%
+vernier = 0.126705
+Source Step = 48.3978%
+Source Step = 52.2374%
+Source Step = 56.0769%
+Source Step = 59.9165%
+Source Step = 63.756%
+vernier = 0.190058
+Source Step = 69.3234%
+Source Step = 75.0827%
+Source Step = 80.8421%
+Source Step = 86.6014%
+Source Step = 90.066%
+Source Step = 90.156%
+Source Step = 90.246%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 480.866 ms.
+
+Date: Sat Dec 05 20:11:35 2020
+Total elapsed time: 43.361 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 24102
+traniter = 130
+tranpoints = 53
+accept = 49
+rejected = 250
+matrix size = 658
+fillins = 1651
+solver = Normal
+Thread vector: 36.6/24.0[8] 27.7/6.7[8] 29.0/6.6[8] 3.2/5.7[1]  2592/500
+Matrix Compiler1: 146.67 KB object code size  105.7/54.8/[22.7]
+Matrix Compiler2: 83.12 KB object code size  29.8/38.7/[6.8]
+

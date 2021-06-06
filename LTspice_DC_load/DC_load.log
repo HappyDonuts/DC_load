@@ -1,0 +1,84 @@
+Circuit: * D:\Users\Javi\OneDrive - Universidad Politécnica de Madrid\Projects\Documentation\DC Load\DC_load\DC_load.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by V2.
+Instance "m:u3:os": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.00324519
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 0.00305058
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 0.00302484
+vernier = 0.0138889
+Gmin = 0.00293446
+vernier = 0.0185185
+vernier = 0.0246913
+Gmin = 0.00279235
+vernier = 0.0329218
+vernier = 0.0438957
+Gmin = 0.00258139
+vernier = 0.0585276
+Gmin = 0.00227306
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 0.00184713
+vernier = 0.138732
+vernier = 0.184976
+Gmin = 0.00133218
+vernier = 0.246634
+vernier = 0.123317
+vernier = 0.0616586
+Gmin = 0.00100095
+vernier = 0.0308293
+vernier = 0.0154146
+vernier = 0.00770732
+vernier = 0.00385366
+vernier = 0.00192683
+Gmin = 0.00100095
+vernier = 0.000963415
+vernier = 0.000481708
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo transient terminated at 100.417 s, solution accepted ready or not!
+Heightened Def Con from 0.09 to 0.09
+Heightened Def Con from 0.102 to 0.102
+Heightened Def Con from 0.102 to 0.102
+
+Date: Sun Jun 06 17:56:14 2021
+Total elapsed time: 2.444 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 38554
+traniter = 17924
+tranpoints = 5927
+accept = 4523
+rejected = 1708
+matrix size = 182
+fillins = 319
+solver = Normal
+Thread vector: 11.3/6.8[4] 6.4/1.8[4] 4.2/2.9[3] 0.7/1.8[1]  2592/500
+Matrix Compiler1: 27.72 KB object code size  10.5/5.9/[1.2]
+Matrix Compiler2: 20.33 KB object code size  2.0/3.3/[1.0]
+

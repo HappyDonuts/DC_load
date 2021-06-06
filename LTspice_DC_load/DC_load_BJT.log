@@ -1,0 +1,6 @@
+Circuit: * D:\Users\Javi\OneDrive - Universidad Politécnica de Madrid\Projects\Documentation\DC Load\DC_load\DC_load_BJT.asc
+
+Instance "m:u2:os": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0466045 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 0.0466045, timestep = 2.19996e-017: trouble with u2:mos-instance m:u2:os
+
