@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 "HappyDonuts"
 $EndDescr
 Text GLabel 1950 3400 0    50   Input ~ 0
-set_v
+v_set
 $Comp
 L Device:R R1
 U 1 1 5FD102A1
@@ -642,28 +642,6 @@ Wire Wire Line
 	5700 5150 6400 5150
 Wire Wire Line
 	5700 4450 6400 4450
-$Comp
-L Transistor_FET:2N7002 Q?
-U 1 1 60BD2568
-P 6500 3350
-F 0 "Q?" H 6705 3396 50  0000 L CNN
-F 1 "2N7002" H 6705 3305 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 6700 3275 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 6500 3350 50  0001 L CNN
-	1    6500 3350
-	-1   0    0    -1  
-$EndComp
-$Comp
-L Transistor_FET:2N7002 Q?
-U 1 1 60BE58B5
-P 6500 5600
-F 0 "Q?" H 6705 5646 50  0000 L CNN
-F 1 "2N7002" H 6705 5555 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-23" H 6700 5525 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf" H 6500 5600 50  0001 L CNN
-	1    6500 5600
-	-1   0    0    -1  
-$EndComp
 NoConn ~ 5500 2800
 $Comp
 L Device:Opamp_Dual_Generic U2
@@ -931,4 +909,26 @@ Wire Wire Line
 Wire Wire Line
 	5400 1850 5400 1600
 Connection ~ 5400 1850
+$Comp
+L Device:Q_NMOS_GDS Q?
+U 1 1 60C76765
+P 6500 3350
+F 0 "Q?" H 6705 3396 50  0000 L CNN
+F 1 "CJ3400" H 6705 3305 50  0000 L CNN
+F 2 "" H 6700 3450 50  0001 C CNN
+F 3 "~" H 6500 3350 50  0001 C CNN
+	1    6500 3350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:Q_NMOS_GDS Q?
+U 1 1 60C770C0
+P 6500 5600
+F 0 "Q?" H 6705 5646 50  0000 L CNN
+F 1 "CJ3400" H 6705 5555 50  0000 L CNN
+F 2 "" H 6700 5700 50  0001 C CNN
+F 3 "~" H 6500 5600 50  0001 C CNN
+	1    6500 5600
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC
