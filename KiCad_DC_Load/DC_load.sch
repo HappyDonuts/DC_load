@@ -5,13 +5,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title "DC Programmable Load"
-Date "2020-12-09"
-Rev ""
+Date "2021-06-16"
+Rev "v01"
 Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
-Comment4 "HappyDonuts"
+Comment4 "Author: HappyDonuts"
 $EndDescr
 $Sheet
 S 1350 1100 500  150 
